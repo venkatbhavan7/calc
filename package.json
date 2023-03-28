@@ -1,0 +1,17 @@
+{
+    "name": "bhavan",
+    "version": "0.0.2",
+    "main": "c.js",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/venkatbhavan7/calc.git"
+    },
+    "keywords": [
+        "bhavan"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+       
+}
